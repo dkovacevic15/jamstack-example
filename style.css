@@ -9,6 +9,7 @@ body {
 
 main {
   margin: 3rem auto;
+  background-color: fuchsia;
   max-width: 90vw;
   width: 50ch;
 }
